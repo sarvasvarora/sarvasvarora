@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bsovs" alt="bsovs"/></p>
 
-<h1 align="center"> Hey <img width="30px" src="https://github.com/arshsahzad/arshsahzad/blob/main/assets/gifs/hi.gif">, I'm Brandon</h1>
+<h1 align="center"> Hey <img width="30px" src="https://github.com/arshsahzad/arshsahzad/blob/main/assets/gifs/hi.gif">, I'm <a href="https://www.linkedin.com/in/brandon-sovran/">Brandon</a></h1>
+
 
 <h2 align="center"> Brandon's Stats
-  <br><img src="https://github.com/bsovs/bsovs/blob/main/github-metrics.svg"><br> 
+   <a href="https://www.linkedin.com/in/brandon-sovran/">
+     <br><img src="https://github.com/bsovs/bsovs/blob/main/github-metrics.svg"><br> 
+  </a>
 </h2>
 
 <div align="center">
