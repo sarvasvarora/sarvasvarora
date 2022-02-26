@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **bsovs/bsovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bsovs" alt="bsovs"/></p>
+
+<h1 align="center"> Hey <img width="30px" src="https://github.com/arshsahzad/arshsahzad/blob/main/assets/gifs/hi.gif">, I'm Brandon</h1>
+
+<h2 align="center"> Brandon's Stats
+  <br><img src="https://github.com/bsovs/bsovs/blob/main/github-metrics.svg"><br> 
+</h2>
+
+<div align="center">
+  <br><img src="https://github-readme-stats.vercel.app/api?username=bsovs"><br> 
+</div>
