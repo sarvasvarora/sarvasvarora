@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 </h2>
 
 <div align="center">
-  <br><img src="https://github-readme-stats.vercel.app/api?username=sarvasvarora"><br> 
+  <br><img src="https://github-readme-stats.vercel.app/api?username=sarvasvarora&show_icons=true&theme=tokyonight" alt="Sarvasv's github stats"><br> 
 </div>
