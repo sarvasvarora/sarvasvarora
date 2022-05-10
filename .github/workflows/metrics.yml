@@ -21,7 +21,8 @@ jobs:
           user: sarvasvarora
           template: classic
           base: activity, community, repositories, metadata
-          config_animated: yes
+          plugin_introduction: yes
+          config_animated: base
           plugin_followup: no
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
