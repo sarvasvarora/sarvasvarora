@@ -33,8 +33,15 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_repositories: yes
+          plugin_notable_indepth: yes
           plugin_pagespeed_screenshot: no
           plugin_topics: yes
           plugin_topics_sort: stars
           plugin_topics_mode: mastered
           plugin_topics_limit: 10
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          plugin_habits_days: 30
+          plugin_habits_from: 1000
+          config_timezone: Canada/Pacific
