@@ -1,5 +1,5 @@
 <!--
-**bsovs/bsovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sarvasvarora/sarvasvarora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bsovs" alt="bsovs"/></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sarvasvarora" alt="sarvasvarora"/></p>
 
-<h1 align="center"> Hey <img width="30px" src="https://github.com/bsovs/bsovs/blob/main/assets/hi.gif">, I'm <a href="https://www.linkedin.com/in/brandon-sovran/">Brandon</a></h1>
+<h1 align="center"> Hey <img width="30px" src="https://github.com/sarvasvarora/sarvasvarora/blob/main/assets/hi.gif">, I'm <a href="https://www.linkedin.com/in/sarvasvarora/">Sarvasv</a></h1>
 
 
-<h2 align="center"> Brandon's Stats
-   <a href="https://www.linkedin.com/in/brandon-sovran/">
-     <br><img src="https://github.com/bsovs/bsovs/blob/main/github-metrics.svg"><br> 
+<h2 align="center"> Sarvasv's Stats
+   <a href="https://www.linkedin.com/in/sarvasvarora/">
+     <br><img src="https://github.com/sarvasvarora/sarvasvarora/blob/main/github-metrics.svg"><br> 
   </a>
 </h2>
 
 <div align="center">
-  <br><img src="https://github-readme-stats.vercel.app/api?username=bsovs"><br> 
+  <br><img src="https://github-readme-stats.vercel.app/api?username=sarvasvarora"><br> 
 </div>
